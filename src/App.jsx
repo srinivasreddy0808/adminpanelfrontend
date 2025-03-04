@@ -1,4 +1,4 @@
-import UploadForm from "./components/uploadForm";
+import UploadForm from "./components/UploadForm";
 import Header from "./components/Header";
 
 function App() {
